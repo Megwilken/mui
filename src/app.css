@@ -1,0 +1,20 @@
+
+
+body {
+  color: white;
+  font-family: 'Nunito', sans-serif;
+  margin: 40px;
+  padding: 15px;
+  background: linear-gradient(
+    45deg,
+    #245E4D,
+    #000403,
+    #2B69B2
+  );
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  min-height: 100vh;
+}
+
